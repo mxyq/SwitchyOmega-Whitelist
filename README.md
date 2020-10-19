@@ -15,3 +15,6 @@ https://raw.githubusercontent.com/mxyq/SwitchyOmega-Whitelist/master/white-list.
 ``
 * 点击「立即更新情景模式」
 * 点击左上角「界面」，将初始情景模式改为「Switchy」
+
+> 黑名单适用于经常访问国内网的同学
+> 白名单适用于经常访问国外网的同学
